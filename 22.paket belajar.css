@@ -1,0 +1,10 @@
+.row  .col-sm-4 .tess{
+   
+    /* background-image: linear-gradient(to bottom right , rgb(11,56,188) , rgb(28,142,241) ,rgb(0, 242, 255)) ;
+    color: white; */
+}
+
+.row .col-sm-4 .card {
+    background-image: linear-gradient(to bottom right , rgb(11,56,188) , rgb(28,142,241) ,rgb(0, 242, 255)) ;
+    color: white;
+}

@@ -1,0 +1,11 @@
+.container .row .row1 {
+    /* background-color: rgb(9, 3, 87); */
+    color: rgb(2, 0, 0);
+    
+    box-shadow: 0 12px 20px rgba(0,0,0,0.2);
+}
+.container .row .row2 {
+    /* background-color: rgba(25, 16, 141, 0.945); */
+    color: rgb(2, 0, 0);
+    box-shadow: 0 12px 20px rgba(0,0,0,0.2);
+}
